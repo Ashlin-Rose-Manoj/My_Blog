@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: ashlinpic.jpeg
 about:
   template: jolla
   links:
@@ -9,11 +9,12 @@ about:
       href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/ashlin-rose-manoj/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/Ashlin-Rose-Manoj
 
 ---
 
-About this blog
+I am Ashlin Rose Manoj
+second year BTech computer science student at Saintgits College of Engineering.

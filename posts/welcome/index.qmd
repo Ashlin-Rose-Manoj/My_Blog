@@ -1,6 +1,6 @@
 ---
 title: "Where Ideas Take Flight "
-author: "Ashlin Rose"
+author: "Ashlin Rose Manoj"
 date: "2024-08-03"
 categories: [views]
 ---
